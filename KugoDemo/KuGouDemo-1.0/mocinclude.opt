@@ -1,0 +1,42 @@
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/mkspecs/win32-msvc
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/threadFiles
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/dataBase
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/deskTopLrc
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/trayIconMenu
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/tableWidgetFiles
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/PlayCore
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/PlayCore/libvlc_include
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/PlayCore/include
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/netWork
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/topWidget
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/middleWidget
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/bottomWidget
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/otherWidget
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/absFiles
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0
+-IF:/QT/KugoDemo/KugoDemo/KuGouDemo-1.0/mainWindows
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtMultimedia
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtWidgets
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtGui
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtANGLE
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtSql
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtNetwork
+-IC:/QT/QT5.13.0/5.13.0/MSVC2017/include/QtCore
+-Ic:\program files\microsoft visual studio\2022\community\VC\Tools\MSVC\14.32.31326\include
+-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+-IE:\Windows Kits\10\include\10.0.20348.0\ucrt
+-IE:\Windows Kits\10\\include\10.0.20348.0\\shared
+-IE:\Windows Kits\10\\include\10.0.20348.0\\um
+-IE:\Windows Kits\10\\include\10.0.20348.0\\winrt
+-IE:\Windows Kits\10\\include\10.0.20348.0\\cppwinrt

@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebWidget" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\WebWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lyric" Collapsed="true">
+    <Position X="65.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAQAAABABAAAAAAEEAAAAAAAAAAIAAAAQAFAIA=</HashCode>
+      <FileName>middleWidget\lyric.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myDataBase" Collapsed="true">
+    <Position X="69" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAEEBSAAQAAAAAIACgAAAAAAIAAAAgAAA=</HashCode>
+      <FileName>dataBase\myDataBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skinWidgetSliderWidget" Collapsed="true">
+    <Position X="28" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAIAABQAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>otherWidget\skinWidgetSliderWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleApplication" Collapsed="true">
+    <Position X="69" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAABAAAAAAABQAMCAAAAAAAAAAgAAAAgAAAAAAAA=</HashCode>
+      <FileName>singleApplication\SingleApplication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbsFrameLessAutoSize" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAABBFAAAAAAAAAgRAAEAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>absFiles\AbsFrameLessAutoSize.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FFmpegPlayer" Collapsed="true">
+    <Position X="62" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFgAAgAAAAQIIBAAQIAABAAABgigAEAAAAQAAIAAIhQ=</HashCode>
+      <FileName>PlayCore\FFmpegPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextMovingWidget" Collapsed="true">
+    <Position X="63.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAAAAgAAAABAAAAQCAQAIAAABIAAAACAAAAAA=</HashCode>
+      <FileName>bottomWidget\TextMovingWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractWheelWidget" Collapsed="true">
+    <Position X="19" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQAAIBAAKABAEAAAAAQAAAUCIAAAAAAEAAASY=</HashCode>
+      <FileName>middleWidget\AbstractWheelWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LycLabel" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAKDBOAAAABACgRAAEAAAEQAEOAQAgkCQBQAABAAAA=</HashCode>
+      <FileName>middleWidget\LycLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseDialog" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgBBAAAABAAAAABAEAAQAIAAAQBAAAAAAAA=</HashCode>
+      <FileName>absFiles\baseDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseWidget" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAAAABAAAAABAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>absFiles\baseWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Widget" Collapsed="true">
+    <Position X="65.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQABAAAACAgIAABBAAwAAAAAABABQAgCQACAAAADA=</HashCode>
+      <FileName>absFiles\basewindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="baseWindow" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAABAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>absFiles\basewindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bottomWidgets" Collapsed="true">
+    <Position X="55" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQIQCCAARAAAABSACAwAAQACYBAAICIAhAAAIIAgA=</HashCode>
+      <FileName>bottomWidget\bottomWidgets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="buttonStackedWidget" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAAAAABAAAAIAAAAAAAAIAAMAAEAAAAQA=</HashCode>
+      <FileName>middleWidget\buttonstackedwidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="deskTopLrcWidget" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KCAAAAAQAABEAJAAAAABAEACEAAgYAYAAACABBAAAkA=</HashCode>
+      <FileName>deskTopLrc\deskTopLrcWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playModeWidget" Collapsed="true">
+    <Position X="21.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASACAAAABAAIAAAAAgAIAAAAAQAAIAgAAAAAAAAAA=</HashCode>
+      <FileName>mainWindows\mainWindowContentWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="volSliderWidget" Collapsed="true">
+    <Position X="30.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>mainWindows\mainWindowContentWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddLoveListTips" Collapsed="true">
+    <Position X="37" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAABAAAAAAAAAABAAEBAAAAAAAAAIAAQ=</HashCode>
+      <FileName>mainWindows\mainWindowContentWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mainWindow" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YBoAADoZAFEwAgQQEAMIIZMELQBgBgaBEAKAERKBAEA=</HashCode>
+      <FileName>mainWindows\mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myScrollArea" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleLeftStackWidget0" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QJBSAkAAAIAEQCADEQAAApAwCCLJIJIRACSEFAAAQAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget0.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleLeftStackWidget1" Collapsed="true">
+    <Position X="57.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleLeftStackWidget2" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleLeftStackWidget3" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleLeftStackWidget4" Collapsed="true">
+    <Position X="23.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAIIAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleLeftStackWidget4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tableCellWidget" Collapsed="true">
+    <Position X="32.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACgAAAAAAAAAAAAAAAAAAAAEAIAAAAEAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleSearchTableWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleSearchTableWidget" Collapsed="true">
+    <Position X="67.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAEAEAIAAAAIBgAAIABCAAAAAAAIIAAAAACACAAA=</HashCode>
+      <FileName>middleWidget\middleSearchTableWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="loadingWidget" Collapsed="true">
+    <Position X="43.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>middleWidget\middleSearchWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleSearchWidget" Collapsed="true">
+    <Position X="48.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FhAAAAiAAyAEGAAgEACAQCCAAhEAIAICAhEAAAxAAAA=</HashCode>
+      <FileName>middleWidget\middleSearchWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleWidgetRight" Collapsed="true">
+    <Position X="50.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgQUAEQAAAAAAAAJJIAAAQAAACQAIIoAABAAAAEQAAA=</HashCode>
+      <FileName>middleWidget\middleWidgetRight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleWidgets" Collapsed="true">
+    <Position X="59.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgAEABAAAAABAAAIABSQCAQAAAgAAAAAAAAMAA=</HashCode>
+      <FileName>middleWidget\middleWidgets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleConvientTwoButton" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DCAAAAAIAAACAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>middleWidget\middleconvienttwobutton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleListSearch" Collapsed="true">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>middleWidget\middleconvienttwobutton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="middleWidgetLeft" Collapsed="true">
+    <Position X="25.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAEkCEAAFACgRBAAAAIAAQCAEICCAwIcgAAGQAwA=</HashCode>
+      <FileName>middleWidget\middlewidgetleft.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myMediaList" Collapsed="true">
+    <Position X="62" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAACAAAAAAAABAACgAAEAAAAAAAEEAA=</HashCode>
+      <FileName>PlayCore\myMediaList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myPushButton" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="volButton" Collapsed="true">
+    <Position X="69" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>COAAAAAAEBgAAAEABAAEAABAAAAQQAABAAAgAAAAAAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="volButton2" Collapsed="true">
+    <Position X="62" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CcAAAAAAEBgAAAECBAAAAABAAIAQYAABAAAAAAAAAAQ=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stackButton" Collapsed="true">
+    <Position X="62" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAEAAAAAAAJAACAAAAAAARAAAIAIAABAAAIAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="leftPixButton" Collapsed="true">
+    <Position X="63.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAIAAAAAAAAAAAJAAAAAAAAAARAAAAAAAABAAAIAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playModeButton" Collapsed="true">
+    <Position X="62" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAAAAAAAAAAgAAJAAIAAAAAAARgAAiAAAABAIAIAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playingWidgetBtn" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAAAAAABAAwACBAAAIACAAAAQAAIIAAAACABAAAA=</HashCode>
+      <FileName>absFiles\myPushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mySlider" Collapsed="true">
+    <Position X="67.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>absFiles\mySlider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myTableAddWidget" Collapsed="true">
+    <Position X="39.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAABAAAAAAAAAIABAAAAAgAAgA=</HashCode>
+      <FileName>tableWidgetFiles\myTableAddWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myTablePlayListFinal" Collapsed="true">
+    <Position X="46" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEcIAAQoBEAAQAAxVRACDAAAAAUIsiACAAAAAQkoAAA=</HashCode>
+      <FileName>tableWidgetFiles\myTablePlayListFinal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNetWork" Collapsed="true">
+    <Position X="63.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAIABAQAAAAEDADAAQQEAAAAAIACAIIAAAACAA=</HashCode>
+      <FileName>netWork\mynetwork.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myShowTableButton" Collapsed="true">
+    <Position X="65.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IFAEgAGABEBhBAEABAAAAIBIESAYBIIgQAAAAQMIAAo=</HashCode>
+      <FileName>tableWidgetFiles\myshowtablebutton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myTableWidget" Collapsed="true">
+    <Position X="69" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DDIBQBCEJIhLAgIAhAEBABBAkAgQogqwQggABCIIRAA=</HashCode>
+      <FileName>tableWidgetFiles\mytablewidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playingWidget" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAgQGAACAJACAQAACgAAAAAAAAgAISABIgAABAAoA=</HashCode>
+      <FileName>tableWidgetFiles\playingWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pushButtonCrossWidget" Collapsed="true">
+    <Position X="65.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>tableWidgetFiles\pushButtonOnTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pushButtonGroupWidget" Collapsed="true">
+    <Position X="67.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAASABAAAAAAAAAAAAAAAAAAACABQAAAAAAgA=</HashCode>
+      <FileName>tableWidgetFiles\pushButtonOnTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skinWidgetContentItem" Collapsed="true">
+    <Position X="34.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CKABAAAAAAAAACAABJAAAABAAAAAgBAAAGEAAAAAAAg=</HashCode>
+      <FileName>otherWidget\skinWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skinContentWidget" Collapsed="true">
+    <Position X="41.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAQIAEAEAABACIAAAAAAAAJAA=</HashCode>
+      <FileName>otherWidget\skinWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skinWidget" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAgAEAAAABAAAAAAQAAAABAAAAAEAAIAABAA=</HashCode>
+      <FileName>otherWidget\skinWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="topSearchTipsWidget" Collapsed="true">
+    <Position X="65.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAABAAAAAAAAAAAAAAAAAAAAAAgDAAAAAAAA=</HashCode>
+      <FileName>topWidget\topSearchTipsWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TopWidgets" Collapsed="true">
+    <Position X="52.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAAABAAkBEAAABASAAAABAAAAAAIAgCAIBBAA=</HashCode>
+      <FileName>topWidget\topwidgets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="volWidget" Collapsed="true">
+    <Position X="63.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>trayIconMenu\trayiconmenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playWidget" Collapsed="true">
+    <Position X="63.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAAAAAAAAAAAAAAAAIQAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>trayIconMenu\trayiconmenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="trayIconMenu" Collapsed="true">
+    <Position X="67.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAACAAAAAAABAABAAIFAAIAAIAAgAAAJIBA=</HashCode>
+      <FileName>trayIconMenu\trayiconmenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="pressWindowsState" Collapsed="true">
+    <Position X="62" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAAAAAAAAAAAAAEAAAAAAIQAAAAAAAAA=</HashCode>
+      <FileName>absFiles\AbsFrameLessAutoSize.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="CursorPos" Collapsed="true">
+    <Position X="62" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAABAAAAAQIAAAAAAIAAAACACAAAAAAEA=</HashCode>
+      <FileName>absFiles\AbsFrameLessAutoSize.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlayerStatus" Collapsed="true">
+    <Position X="63.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>PlayCore\FFmpegPlayer.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PlayMode" Collapsed="true">
+    <Position X="65.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>PlayCore\myMediaList.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
